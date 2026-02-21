@@ -22,29 +22,7 @@ Did you know that some companies spend an average of 30% to 40% of their time on
 
 <img src="Screenshot%202026-02-21%20at%2011.29.46.png" width="300"/>
 
-Sample JSON Output from the PDF Reader
 
-'''python
-{
-  "page": 2,
-  "data": {
-    "vendor": "[Educational Institution]",
-    "date": "2022-10-27",
-    "items": [
-      {
-        "description": "[Bakery Item 1]",
-        "price": 1.6
-      },
-      {
-        "description": "[Dairy Product 1]",
-        "price": 2.15
-      }
-    ],
-    "subtotal": 3.75,
-    "paymentMethod": "[Card Payment]",
-    "vatNumber": "[VAT]"
-  }
-}
 
 ## 🛠️ Tools Used
 - Python
