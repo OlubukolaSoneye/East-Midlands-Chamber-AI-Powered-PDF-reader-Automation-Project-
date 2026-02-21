@@ -1,6 +1,9 @@
 # 🤖 AI-Powered PDF Data Extraction (Gemini API)
 <img src="Screenshot 2026-02-21 at 11.31.03.png" width="300"/>
 
+##  📊 The Business
+East Midlands Chambers connects and supports businesses across the east midlands in the United Kingdom, through strategic planning to grow their business. This involves heavy-documentation and presented an opportunity for improvement. I worked with a team of 4, on a project to create an AI script using AI Agents (Gemini AI) API that outputs data in a table format based of reading a scanned PDF to support East Midlands business team.
+
 ## 📌 Project Overview
 Developed an AI-powered automation script using Gemini API 
 to extract structured data from scanned PDF documents.
