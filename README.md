@@ -15,7 +15,7 @@ Did you know that some companies spend an average of 30% to 40% of their time on
 ### 📸 Output Preview
 
 <p align="center">
-  <img src="assets/ai_preview.png" width="700"/>
+  <Screenshot 2026-02-21 at 11.29.46.png" width="700"/>
 </p>
 
 
