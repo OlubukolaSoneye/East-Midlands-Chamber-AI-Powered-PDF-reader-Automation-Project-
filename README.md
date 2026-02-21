@@ -33,7 +33,12 @@ PDF reports into structured, tabular data.
 ## 📁 Project Structure
 ai-pdf-automation/
 │
-├── gemini_script.py
-├── sample_input.pdf
-├── extracted_output.csv
-└── project_documentation.pdf
+├── gemini_script.py   ← 1
+├── sample_input.pdf     ← 2
+├── extracted_output.csv    ← 3
+└── project_documentation.pdf ← 4
+```
+
+## 📬 Contact
+Made by Bukola Soneye
+LinkedIn:https://inkedin.com/in/bukola-soneye/
