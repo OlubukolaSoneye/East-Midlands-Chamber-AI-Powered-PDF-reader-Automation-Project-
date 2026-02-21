@@ -1,5 +1,5 @@
 # 🤖 AI-Powered PDF Data Extraction (Gemini API)
-<img src="Screenshot 2026-02-21 at 11.31.03.png" width="300"/>
+<img src="Screenshot 2026-02-21 at 11.31.03.png" width="400"/>
 
 
 ##  📊 The Business
