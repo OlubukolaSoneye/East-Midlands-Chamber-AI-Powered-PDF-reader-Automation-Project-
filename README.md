@@ -31,13 +31,7 @@ PDF reports into structured, tabular data.
 - Improved reporting turnaround time
 
 ## 📁 Project Structure
-ai-pdf-automation/
-│
-├── gemini_script.py   ← 1
-├── sample_input.pdf     ← 2
-├── extracted_output.csv    ← 3
-└── project_documentation.pdf ← 4
-```
+
 
 ## 📬 Contact
 Made by Bukola Soneye
