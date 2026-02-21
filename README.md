@@ -18,7 +18,7 @@ PDF reports into structured, tabular data.
 
 Did you know that some companies spend an average of 30% to 40% of their time on manual data entry and handling? This involves tasks like copying and pasting data from emails, invoices, scanned PDFs, or spreadsheets into systems. Manual document processing is costly, slow, and error-prone. To enhance the data-driven decision making and accuracy for the company, we leveraged AI-driven automation. 
 
-### 📸 Output Preview
+## 📁 Project Structure
 
 <img src="Screenshot%202026-02-21%20at%2011.29.46.png" width="300"/>
 
@@ -68,8 +68,6 @@ Did you know that some companies spend an average of 30% to 40% of their time on
 - Reduced human error
 - Enabled scalable document processing
 - Improved reporting turnaround time
-
-## 📁 Project Structure
 
 
 ## 📬 Contact
